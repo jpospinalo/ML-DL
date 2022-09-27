@@ -1,2 +1,2 @@
 # ML-DL
-Machine Learning and Deep Learning material
+Machine Learning and Deep Learning notebooks
